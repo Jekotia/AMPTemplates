@@ -1,7 +1,7 @@
 [
     {
         "DisplayName": "Max Players",
-        "Category": "",
+        "Category": "Soldat Server",
         "Description": "",
         "Keywords": "",
         "FieldName": "l",
@@ -14,7 +14,7 @@
     },
     {
         "DisplayName": "Password",
-        "Category": "",
+        "Category": "Soldat Server",
         "Description": "",
         "Keywords": "",
         "FieldName": "k",
