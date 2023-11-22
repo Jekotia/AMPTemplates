@@ -1,36 +1,28 @@
 [
     {
         "DisplayName": "Max Players",
-        "Category": "Server Settings",
+        "Category": "",
         "Description": "",
-        "Keywords": "max,players",
+        "Keywords": "",
         "FieldName": "l",
         "InputType": "number",
         "IsFlagArgument": false,
         "ParamFieldName": "l",
         "IncludeInCommandLine": true,
-        "DefaultValue": "",
-        "Placeholder": "",
-        "Suffix": "",
-        "Hidden": false,
-        "SkipIfEmpty": false,
+        "DefaultValue": "16",
         "EnumValues": {}
     },
     {
         "DisplayName": "Password",
-        "Category": "Server Settings",
+        "Category": "",
         "Description": "",
-        "Keywords": "password",
+        "Keywords": "",
         "FieldName": "k",
         "InputType": "text",
         "IsFlagArgument": false,
         "ParamFieldName": "k",
         "IncludeInCommandLine": true,
         "DefaultValue": "",
-        "Placeholder": "",
-        "Suffix": "",
-        "Hidden": false,
-        "SkipIfEmpty": false,
         "EnumValues": {}
     }
 ]
